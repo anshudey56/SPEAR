@@ -1,0 +1,1 @@
+This is an ai chatbot which opens web browsers just by taking voice commands. The future scope of this chatbot is that it can be used to open any apps and play music from default apps inside the computer as a desktop assistant without manually inputting text .
